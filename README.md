@@ -19,7 +19,7 @@
 ###
 
 <p align="left">-Electrical Engineering School "Mihajlo Pupin" in Novi Sad, course - Information Technology. (2017 - 2021)<br>-I am currently in my 4th year of pursuing a Bachelor's degree in Software Engineering and Information Technology at the Faculty of Technical Sciences, University of Novi Sad. (2021 - )<br><br>
-###🏆 Experience, Awards and Competitions<br>🥈Second place at IEESTEC 12th Student projects conference (2019)<br>🥉Third place at IEESTEC 13th Student projects conference (2020)<br>🛠️ Attended a workshop hosted by VEGA IT about React in 2024 and it made me much more eager to learn more about the framework. Also, it was a very good time to test my knowledge I have ammased so far.</p>
+###🏆 Experience, Awards and Competitions<br>🥈Second place at IEESTEC 12th Student projects conference (2019)<br>🥉Third place at IEESTEC 13th Student projects conference (2020)<br>🛠️ I attended a workshop on React hosted by VEGA IT in 2024, which inspired me to learn more about the framework.</p>
 
 ###
 
